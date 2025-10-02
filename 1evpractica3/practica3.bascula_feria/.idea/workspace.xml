@@ -5,22 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dc3185b-5aa0-4eed-9930-e3e3b736e27f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ejercicios/src/main/java/org/example/ejercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ejercicios/src/main/java/org/example/ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ejercicios/src/main/java/org/example/ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ejercicios/src/main/java/org/example/ejercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/practica3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ejercicios/src/main/java/org/example/ejercicio7plus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="33Qqv4Tug12m4GMGUdQGtbORLn8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +35,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.practica3.executor": "Run",
+    "Application.prueba.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
