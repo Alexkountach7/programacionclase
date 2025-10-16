@@ -1,12 +1,11 @@
 package org.example;
 
-import javax.swing.*;
 import java.util.Scanner;
 
-public class ejercicio_1 {
+public class ejercicio_3 {
     static void main() {
         Scanner sc = new Scanner(System.in);
-        System.out.println("introduce u n numero");
+        System.out.println("introduce un numero");
         int numero = sc.nextInt();
         System.out.println("introdece las cifras que quieres eliminar");
         int cifras = sc.nextInt();
@@ -17,6 +16,6 @@ public class ejercicio_1 {
         int nuevo_tamaño = tamaño-cifras;
 
         String numero_cortado = numero_string.substring(0,nuevo_tamaño);
-        System.out.println("el numero cortado es"+numero_cortado);
+        System.out.println("el numero cortado es "+numero_cortado);
     }
 }
