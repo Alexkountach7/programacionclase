@@ -33,7 +33,7 @@ public class ejercicio_5 {
             if (oportunidad<10) {
                 System.out.println("Intento fallido tienes " + totaloportunidades + " oportunidades");
             }else {
-                Syste
+
             }
         }while (oportunidad<10);
 
