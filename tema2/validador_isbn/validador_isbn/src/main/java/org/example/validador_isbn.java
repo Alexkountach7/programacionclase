@@ -20,7 +20,7 @@ public class validador_isbn {
                     System.out.println("el isbn es invalido");
                 } else {
                     for (int i = 10; i >= 0; i--) {
-                        
+
                     }
                 }
         }
